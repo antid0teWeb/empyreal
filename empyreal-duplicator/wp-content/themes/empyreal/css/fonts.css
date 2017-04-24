@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Open Sans';
+    src:url('../fonts/OpensansRegular.eot');
+    src: url('../fonts/OpensansRegular.eot') format('embedded-opentype'),
+         url('../fonts/OpensansRegular.woff') format('woff'),
+         url('../fonts/OpensansRegular.ttf') format('truetype'),
+         url('../fonts/OpensansRegular.svg#Open Sans') format('svg');
+}
